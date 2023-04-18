@@ -7,6 +7,10 @@
 - pip install docx2txt
 - pip install PyCryptodome
 - pip install gradio
+
+or run 
+
+pip install -r requirements.txt
 # Training Data Setup
 - create folder called 'docs'
 - load folder with relevant data

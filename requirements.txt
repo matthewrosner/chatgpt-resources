@@ -1,0 +1,7 @@
+docx2txt==0.8
+gpt-index==0.4.24
+gradio==3.27.0
+load-dotenv==0.1.0
+openai==0.27.4
+pycryptodome==3.17
+PyPDF2==3.0.1
